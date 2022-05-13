@@ -1,0 +1,36 @@
+# Math-Tutor-Exceptions
+Main menu
+1: Addition
+2: Subtraction
+3: Multiplication
+4: Division
+5: Exit
+Select a main menu choice:
+1
+55 + 2?
+57
+Correct!
+Select a main menu choice:
+2
+Arithmetic Error for 13 - 46.  The second number 46 is greater than the first number 13
+Select a main menu choice:
+2
+Arithmetic Error for 21 - 35.  The second number 35 is greater than the first number 21
+Select a main menu choice:
+2
+16 - 5?
+11
+Correct!
+Select a main menu choice:
+3
+17 * 77?
+1
+Your answer is wrong. The correct answer is 1309
+Select a main menu choice:
+4
+73 / 17?
+4
+Correct!
+Select a main menu choice:
+5
+Thank you for using the Math Tutor Program. Have a Great Day!
